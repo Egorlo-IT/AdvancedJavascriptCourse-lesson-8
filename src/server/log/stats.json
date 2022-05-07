@@ -1,0 +1,128 @@
+[
+  {
+    "date": "2022-05-07T14:07:04.660Z",
+    "action": "received",
+    "product": "products list",
+    "log": "GET request was made to /api/products"
+  },
+  {
+    "date": "2022-05-07T14:07:18.478Z",
+    "action": "received",
+    "product": "products list",
+    "log": "GET request was made to /api/products"
+  },
+  {
+    "date": "2022-05-07T14:07:28.918Z",
+    "action": "received",
+    "product": "products list",
+    "log": "GET request was made to /api/products"
+  },
+  {
+    "date": "2022-05-07T14:07:38.637Z",
+    "action": "added",
+    "product": "Women's blouse - C.P. Company",
+    "log": "POST request was made to /api/cart"
+  },
+  {
+    "date": "2022-05-07T14:07:41.195Z",
+    "action": "added",
+    "product": "Men's suit - Prada",
+    "log": "POST request was made to /api/cart"
+  },
+  {
+    "date": "2022-05-07T14:07:43.167Z",
+    "action": "added",
+    "product": "Children's suit (men's) - Prada",
+    "log": "POST request was made to /api/cart"
+  },
+  {
+    "date": "2022-05-07T14:07:46.875Z",
+    "action": "added",
+    "product": "Children's suit (men's) - Prada",
+    "log": "PUT request was made to /api/cart/3"
+  },
+  {
+    "date": "2022-05-07T14:07:47.679Z",
+    "action": "added",
+    "product": "Children's suit (men's) - Prada",
+    "log": "PUT request was made to /api/cart/3"
+  },
+  {
+    "date": "2022-05-07T14:07:52.494Z",
+    "action": "added",
+    "product": "Famale jaket - Iceberg",
+    "log": "POST request was made to /api/cart"
+  },
+  {
+    "date": "2022-05-07T14:07:55.373Z",
+    "action": "added",
+    "product": "Womens Leggings - Oakley",
+    "log": "POST request was made to /api/cart"
+  },
+  {
+    "date": "2022-05-07T14:07:56.026Z",
+    "action": "added",
+    "product": "Womens Leggings - Oakley",
+    "log": "PUT request was made to /api/cart/9"
+  },
+  {
+    "date": "2022-05-07T14:08:00.919Z",
+    "action": "added",
+    "product": "Men's T-shirt - Moncler",
+    "log": "POST request was made to /api/cart"
+  },
+  {
+    "date": "2022-05-07T14:08:03.424Z",
+    "action": "added",
+    "product": "Men's jacket - Prada",
+    "log": "POST request was made to /api/cart"
+  },
+  {
+    "date": "2022-05-07T14:08:10.315Z",
+    "action": "received",
+    "product": "products list",
+    "log": "GET request was made to /api/products"
+  },
+  {
+    "date": "2022-05-07T14:08:12.933Z",
+    "action": "added",
+    "product": "Men's jacket - Prada",
+    "log": "PUT request was made to /api/cart/12"
+  },
+  {
+    "date": "2022-05-07T14:08:18.827Z",
+    "action": "added",
+    "product": "Men's jacket - Prada",
+    "log": "PUT request was made to /api/cart/12"
+  },
+  {
+    "date": "2022-05-07T14:08:30.851Z",
+    "action": "received",
+    "product": "products list",
+    "log": "GET request was made to /api/products"
+  },
+  {
+    "date": "2022-05-07T14:08:37.647Z",
+    "action": "added",
+    "product": "Men's jacket - Prada",
+    "log": "PUT request was made to /api/cart/12"
+  },
+  {
+    "date": "2022-05-07T14:08:44.910Z",
+    "action": "deleted",
+    "product": "Men's jacket - Prada",
+    "log": "DELETE request was made to /api/cart/delete/12"
+  },
+  {
+    "date": "2022-05-07T14:09:32.691Z",
+    "action": "received",
+    "product": "cart list",
+    "log": "GET request was made to /api/cart"
+  },
+  {
+    "date": "2022-05-07T14:09:47.720Z",
+    "action": "received",
+    "product": "products list",
+    "log": "GET request was made to /api/products"
+  }
+]
